@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserializationFails", "DeserializationFails\DeserializationFails.csproj", "{4E22E552-6821-44B5-90C5-6EF733A0FA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E22E552-6821-44B5-90C5-6EF733A0FA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E22E552-6821-44B5-90C5-6EF733A0FA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E22E552-6821-44B5-90C5-6EF733A0FA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E22E552-6821-44B5-90C5-6EF733A0FA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C7C35FA-1D66-4BF4-91F0-DEBC755875E8}
+	EndGlobalSection
+EndGlobal
