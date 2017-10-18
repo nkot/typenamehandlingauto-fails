@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserializationFails", "DeserializationFails\DeserializationFails.csproj", "{4E22E552-6821-44B5-90C5-6EF733A0FA58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserializationWorkaround", "DeserializationWorkaround\DeserializationWorkaround.csproj", "{6FAAA853-F94F-4752-9B6F-1A1D42B9B021}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4E22E552-6821-44B5-90C5-6EF733A0FA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E22E552-6821-44B5-90C5-6EF733A0FA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E22E552-6821-44B5-90C5-6EF733A0FA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAAA853-F94F-4752-9B6F-1A1D42B9B021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAAA853-F94F-4752-9B6F-1A1D42B9B021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAAA853-F94F-4752-9B6F-1A1D42B9B021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAAA853-F94F-4752-9B6F-1A1D42B9B021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
